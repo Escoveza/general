@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.1",
+  "appInfo": {
+    "name": "Documentation Repository",
+    "description": "",
+    "version": "tkhk6k81",
+    "id": "ckz46rill36563201s6e8f70mc2",
+    "url": "https://app.amplication.com/ckz46rill36563201s6e8f70mc2",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckz46rill36563201s6e8f70mc2",
+      "authProvider": "Jwt"
+    }
+  }
+}
